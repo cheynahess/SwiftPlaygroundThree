@@ -24,3 +24,12 @@ for name in fruitNames{
 print(fruitNames[1])
 
 //Need to conmplete Part 9 on your own
+
+var carNames: [String]
+carNames = ["Tesla", "Ferrari", "Lambourghini", "Rolls Royce", "Mercedes Benz", "Range Rover", "Cadillac", "Bentley"]
+for name in carNames{
+    print(name + " is a very expensive car")
+}
+
+print(carNames[0])
+
